@@ -1,3 +1,0 @@
-/home/usuario/examen_seleccion/build/CMakeFiles/rebuild_cache.dir
-/home/usuario/examen_seleccion/build/CMakeFiles/edit_cache.dir
-/home/usuario/examen_seleccion/build/CMakeFiles/main.dir
